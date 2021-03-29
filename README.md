@@ -4,6 +4,6 @@ A simple fitness tracker application to help users track workout routines. Users
 
 # Screenshots
 
-![Image1]
-![Image2]
-![Image3]
+![Image1](https://github.com/kytaylor/fitness-tracker/blob/main/assets/Screenshot%202021-03-29%20164136.png)
+![Image2](https://github.com/kytaylor/fitness-tracker/blob/main/assets/Screenshot%202021-03-29%20164331.png)
+![Image3](https://github.com/kytaylor/fitness-tracker/blob/main/assets/Screenshot%202021-03-29%20164407.png)
